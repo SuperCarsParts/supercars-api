@@ -4,6 +4,7 @@ AI-ready REST API for structured exotic automotive data.
 SuperCars API provides structured data for exotic and supercar manufacturers, models, generations, modifications and automotive parts through a modern REST API.
 
 🌐 **Website:** https://supercarsapi.com
+🌐 **mainWebsite:** https://supercars.parts
 
 ---
 
